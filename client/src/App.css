@@ -1,0 +1,34 @@
+.footbar {
+  padding-top: 1%;
+  color: black;
+  margin-left: 1%;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+}
+
+button {
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+
+
+.newUserBtn {
+  text-decoration: none;
+  color: white;
+}
+
+.homeBtn {
+  text-decoration: none;
+  color: black;
+}
+
+.change_btn {
+  margin-left: 140%;
+  width: 30%;
+}
