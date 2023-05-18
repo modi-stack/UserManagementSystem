@@ -11,6 +11,7 @@ After installing NodeJS open terminal
   7. npm install nodemon -> auto start server
   8. npm i jsonWebtoken-> for middleware authentication
   9. npm i ns-node-> for typescript
+  10. npm run dev-> for run
 
 For Client:
   1. cd Client
@@ -18,3 +19,4 @@ For Client:
   3. npm init-> setup json
   4. npm i axios-> for API call
   5. npm i react-router-dom-> for routing
+  6. npm start-> for run
